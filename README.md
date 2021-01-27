@@ -1,2 +1,2 @@
 # persian-date
-convert to persian or jalali date in java
+convert date to persian or jalali date in java
